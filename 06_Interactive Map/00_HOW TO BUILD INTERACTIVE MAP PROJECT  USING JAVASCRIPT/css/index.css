@@ -1,0 +1,86 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 10px;
+    padding: 5px;
+    background: deepskyblue;
+}
+
+h1 {
+    text-align: center;
+    padding: 25px;
+}
+
+.btn .office {
+    border-radius: 21px;
+    color: #fff;
+    border: 1px solid #fff;
+    border-color: #fff;
+    padding: 13px;
+    text-decoration: none;
+}
+
+.btn .countrySide {
+    border-radius: 21px;
+    color: #fff;
+    border: 1px solid #fff;
+    border-color: #fff;
+    padding: 13px;
+    text-decoration: none;
+}
+
+.btn .playground {
+    border-radius: 21px;
+    color: #fff;
+    border: 1px solid #fff;
+    border-color: #fff;
+    padding: 13px;
+    text-decoration: none;
+}
+
+.btn .house {
+    border-radius: 21px;
+    color: #fff;
+    border: 1px solid #fff;
+    border-color: #fff;
+    padding: 13px;
+    text-decoration: none;
+}
+
+.btn .industries {
+    border-radius: 21px;
+    color: #fff;
+    border: 1px solid #fff;
+    border-color: #fff;
+    padding: 13px;
+    text-decoration: none;
+}
+
+.btn .house:hover {
+    background-color: #fff;
+    color: #000;
+}
+
+.btn .office:hover {
+    background-color: #fff;
+    color: #000;
+}
+
+.btn .playground:hover {
+    background-color: #fff;
+    color: #000;
+}
+
+.btn .industries:hover {
+    background-color: #fff;
+    color: #000;
+}
+
+.btn .countrySide:hover {
+    background-color: #fff;
+    color: #000;
+}
